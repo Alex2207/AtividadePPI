@@ -52,6 +52,8 @@ public class AdicionarAluno implements Logica {
 		return "aluno-cadastrado.jsp" ;
 	}
 
+		String alunos = null;
+	
 	}
 
 	
